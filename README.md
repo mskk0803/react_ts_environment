@@ -3,10 +3,10 @@
 非該当の方はご利用をお控えください。
 
 # 手順
-##　gitcloneする
+## gitcloneする
 "フォルダ名"のところに任意のフォルダ名を指定していただくと、フォルダ内にリポジトリのファイルがクローンされます。
 ```
-$ git cloen git@github.com:mskk0803/react_ts_environment.git "フォルダ名"
+$ git clone git@github.com:mskk0803/react_ts_environment.git "フォルダ名"
 ```
 
 ## ディレクトリに移動
