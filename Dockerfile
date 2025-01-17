@@ -8,7 +8,7 @@ WORKDIR /usr/src/app
 COPY . /usr/src/app
 
 # pacakge.jsonをコンテナ内にコピーする
-COPY package.json //usr/src/app
+COPY package.json /usr/src/app
 
 # npmインストールする
 RUN npm install
